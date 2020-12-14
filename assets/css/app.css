@@ -1,0 +1,81 @@
+
+
+#action {
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+.title {
+  font-family: Montserrat;
+  font-weight: 900;
+}
+
+.fa-star {
+  color: #FFEA61;
+  font-size: 4vw;
+  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-right: 7px;
+}
+
+/* New sunday stuff */
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.showcase-text1 {
+  float: left;
+  font-family: Montserrat;
+  font-size: 4vw;
+  padding-left: 50px;
+}
+
+.showcase-text2 {
+  float: right;
+  font-family: Montserrat; 
+  font-size: 4vw;
+  padding-left: 100px;
+  padding-top: 300px;
+}
+
+.showcase-text3 {
+  float: left;
+  font-family: Montserrat;
+  font-size: 4vw;
+  padding-top: 300px;
+  padding-left: 50px;
+}
+
+.showcase-text4 {
+  float: right;
+  font-family: Montserrat;
+  font-size: 4vw;
+  padding-top: 300px;
+}
+
+.showcase-img1 {
+  width: auto;
+  height: auto;
+  float: right;
+}
+
+.showcase-img2 {
+  width: auto;
+  height: auto;
+  float: left;
+}
+
+.showcase-img3 {
+  width: auto;
+  height: auto;
+  float: right;
+}
+
+.showcase-img4 {
+  width: auto;
+  height: auto;
+  float: left;
+}
